@@ -8,4 +8,5 @@
 
 <h1>3° Responsive Task Management Dashboard</h1>
 
-04-Side Navigation Bar
+<h1>04° Side Navigation Bar</h1>
+
