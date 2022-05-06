@@ -12,6 +12,8 @@
 
 <h1>05° Social Media Icons with Tooltip on Hoverr</h1>
 
+<h1>05° Social Media Icons with Tooltip on Hoverr</h1>
 06-Toggle Neumorphism Switch
 
+<h1>05° Social Media Icons with Tooltip on Hoverr</h1>
 07-FAQ Accordion Section
