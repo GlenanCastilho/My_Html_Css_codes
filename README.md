@@ -10,10 +10,9 @@
 
 <h1>04° Side Navigation Bar</h1>
 
-<h1>05° Social Media Icons with Tooltip on Hoverr</h1>
+<h1>05° Social Media Icons with Tooltip on Hover</h1>
 
-<h1>05° Social Media Icons with Tooltip on Hoverr</h1>
-06-Toggle Neumorphism Switch
+<h1>06° Toggle Neumorphism Switch</h1>
 
-<h1>05° Social Media Icons with Tooltip on Hoverr</h1>
-07-FAQ Accordion Section
+<h1>07°FAQ Accordion Section</h1>
+
