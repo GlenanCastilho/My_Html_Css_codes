@@ -16,6 +16,6 @@
 
 <h1>07°FAQ Accordion Section</h1>
 
-08-Game Card Hover Effects
+<h1>08° Game Card Hover Effects/h1>
 
 09-Dropmorphism
