@@ -20,4 +20,4 @@
 
 <h1>09° Dropmorphism/h1>
 
-10-Responsive Image Gallery
+<h1>10° Responsive Image Gallery/h1>
