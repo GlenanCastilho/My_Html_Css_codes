@@ -19,3 +19,5 @@
 <h1>08° Game Card Hover Effects/h1>
 
 <h1>09° Dropmorphism/h1>
+
+10-Responsive Image Gallery
