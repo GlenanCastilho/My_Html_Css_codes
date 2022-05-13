@@ -22,4 +22,4 @@
 
 <h1>10° Responsive Image Gallery/h1>
 
-  11-Custom Radio Buttons
+<h1>11° Custom Radio Buttons/h1>
