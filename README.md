@@ -23,7 +23,7 @@
 <h1>10° Responsive Image Gallery/h1>
 
 <h1>11° Custom Radio Buttons/h1>
-  
-  12-Responsive Pricing Card tables
+ 
+<h1> 12° Responsive Pricing Card tables/h1>
 
   13-Toggle ON OFF Switch Button
