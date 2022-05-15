@@ -27,3 +27,5 @@
 <h1> 12° Responsive Pricing Card tables</h1>
   
 <h1> 13° Toggle ON OFF Switch Button</h1> 
+
+  14-Samsung Watch Clone
