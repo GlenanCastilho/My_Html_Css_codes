@@ -34,5 +34,6 @@
  
 <h1> 16° Neumorphism Animation</h1>  
   
-  17-Card Reveal Hover Effect
-
+<h1> 17° Card Reveal Hover Effect</h1>  
+  
+<h1> 18° Animated Login and Sign Up Form</h1>  
