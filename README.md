@@ -14,7 +14,7 @@
 
 <h1>06° Toggle Neumorphism Switch</h1>
 
-<h1>07°FAQ Accordion Section</h1>
+<h1>07° FAQ Accordion Section</h1>
 
 <h1>08° Game Card Hover Effects/h1>
 
@@ -24,16 +24,18 @@
 
 <h1>11° Custom Radio Buttons</h1>
  
-<h1> 12° Responsive Pricing Card tables</h1>
+<h1>12° Responsive Pricing Card tables</h1>
   
-<h1> 13° Toggle ON OFF Switch Button</h1> 
+<h1>13° Toggle ON OFF Switch Button</h1> 
 
-<h1> 14° Samsung Watch Clone</h1> 
+<h1>14° Samsung Watch Clone</h1> 
   
-<h1> 15° Neumorphic Login Form Design</h1>
+<h1>15° Neumorphic Login Form Design</h1>
  
-<h1> 16° Neumorphism Animation</h1>  
+<h1>16° Neumorphism Animation</h1>  
   
-<h1> 17° Card Reveal Hover Effect</h1>  
+<h1>17° Card Reveal Hover Effect</h1>  
   
-<h1> 18° Animated Login and Sign Up Form</h1>  
+<h1>18° Animated Login and Sign Up Form</h1>
+  
+<h1>19° Awesome Animated Search Bar</h1>
