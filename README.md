@@ -16,6 +16,10 @@
 
 <h1>03° Responsive Task Management Dashboard</h1>
 
+<div align="center">  
+  <img src="https://user-images.githubusercontent.com/67304453/173686054-8fe2f5ff-c24a-430d-95e2-6cfc6212b35a.gif" />
+</div>
+
 <h1>04° Side Navigation Bar</h1>
 
 <h1>05° Social Media Icons with Tooltip on Hover</h1>
