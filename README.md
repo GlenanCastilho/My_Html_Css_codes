@@ -4,6 +4,10 @@
 
 <h1>01° Glowing Neon Buttons</h1>
 
+<div align="center">  
+  <img src="https://user-images.githubusercontent.com/67304453/173468296-53248b0f-134d-448f-82a3-2fc08081c5a4.gif" />
+</div>
+
 <h1>02° Neumorphism Login Form</h1>
 
 <h1>03° Responsive Task Management Dashboard</h1>
