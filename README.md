@@ -23,7 +23,7 @@
 <h1>04° Side Navigation Bar</h1>
 
 <div align="center">  
-  <img src="" />
+  <img src="https://user-images.githubusercontent.com/67304453/173961484-8a530e27-5059-4180-9be7-4f401badefd0.gif" />
 </div>
 
 <h1>05° Social Media Icons with Tooltip on Hover</h1>
