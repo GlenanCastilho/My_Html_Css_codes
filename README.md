@@ -55,3 +55,6 @@
 <h1>20° Animated Search Bar</h1>
 
 <h1>21° 3D Button Hover Animation</h1>
+
+<h1>22° Amazing Profile Cards Design</h1>  
+  
