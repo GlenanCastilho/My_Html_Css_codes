@@ -22,14 +22,34 @@
 
 <h1>04° Side Navigation Bar</h1>
 
+<div align="center">  
+  <img src="" />
+</div>
+
 <h1>05° Social Media Icons with Tooltip on Hover</h1>
+
+<div align="center">  
+  <img src="" />
+</div>
 
 <h1>06° Toggle Neumorphism Switch</h1>
 
+<div align="center">  
+  <img src="" />
+</div>
+
 <h1>07° FAQ Accordion Section</h1>
+
+<div align="center">  
+  <img src="" />
+</div>
 
 <h1>08° Game Card Hover Effects/h1>
 
+<div align="center">  
+  <img src="" />
+</div>
+  
 <h1>09° Dropmorphism</h1>
 
 <h1>10° Responsive Image Gallery</h1>
@@ -57,4 +77,5 @@
 <h1>21° 3D Button Hover Animation</h1>
 
 <h1>22° Amazing Profile Cards Design</h1>  
-  
+ 
+<h1>23° Button with Animated Border</h1>
