@@ -44,7 +44,7 @@
   <img src="" />
 </div>
 
-<h1>08° Game Card Hover Effects/h1>
+<h1>08° Game Card Hover Effects</h1>
 
 <div align="center">  
   <img src="" />
