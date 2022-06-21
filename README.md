@@ -80,4 +80,4 @@
  
 <h1>23° Button with Animated Border</h1>
 
-24-Amazing Profile Cards Design 2
+<h1>24° Amazing Profile Cards Design 2</h1>
