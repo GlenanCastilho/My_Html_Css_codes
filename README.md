@@ -79,3 +79,5 @@
 <h1>22° Amazing Profile Cards Design</h1>  
  
 <h1>23° Button with Animated Border</h1>
+
+24-Amazing Profile Cards Design 2
