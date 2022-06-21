@@ -29,7 +29,7 @@
 <h1>05° Social Media Icons with Tooltip on Hover</h1>
 
 <div align="center">  
-  <img src="" />
+  <img src="https://user-images.githubusercontent.com/67304453/174823632-a1460772-7b44-4ab3-a0f4-7adea35ae130.gif" />
 </div>
 
 <h1>06° Toggle Neumorphism Switch</h1>
