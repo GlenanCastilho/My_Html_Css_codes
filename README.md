@@ -82,4 +82,6 @@
 
 <h1>24° Amazing Profile Cards Design 2</h1>
 
-25-Image Hover Effects
+25° Image Hover Effects
+
+26° CSS Button Hover Effect
