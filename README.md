@@ -85,3 +85,5 @@
 25° Image Hover Effects
 
 26° CSS Button Hover Effect
+
+27° CSS Image Hover Effect
