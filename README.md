@@ -84,8 +84,10 @@
 
 <h1>25° Image Hover Effects</h1>
 
-26° CSS Button Hover Effect
+<h1>26° CSS Button Hover Effect</h1>
 
-27° CSS Image Hover Effect
+<h1>27° CSS Image Hover Effect</h1>
 
-28-Awesome CSS Button Hover Effect
+<h1>28° Awesome CSS Button Hover Effect</h1>
+
+<h1>29° Awesome CSS Card Hover Effects</h1>
