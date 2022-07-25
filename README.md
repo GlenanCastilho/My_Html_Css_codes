@@ -92,12 +92,12 @@
 
 <h1>29° Awesome CSS Card Hover Effects</h1>
 
-30° Responsive CSS Cards
+<h1>30° Responsive CSS Cards</h1>
 
-31° Facebook Sign Up
+<h1>31° Facebook Sign Up</h1>
 
-32° Twitter Homepage
+<h1>32° Twitter Homepage</h1>
 
-33° PayPal Login Page
+<h1>33° PayPal Login Page</h1>
 
-34° PayPal SignUp Page
+<h1>34° PayPal SignUp Page</h1>
