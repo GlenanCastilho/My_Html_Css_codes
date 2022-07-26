@@ -41,7 +41,7 @@
 <h1>07° FAQ Accordion Section</h1>
 
 <div align="center">  
-  <img src="" />
+  <img src="https://user-images.githubusercontent.com/67304453/181061166-d78e18eb-88a3-48a1-b310-b55e3fab499f.gif" />
 </div>
 
 <h1>08° Game Card Hover Effects</h1>
