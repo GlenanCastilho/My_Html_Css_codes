@@ -35,7 +35,7 @@
 <h1>06° Toggle Neumorphism Switch</h1>
 
 <div align="center">  
-  <img src="" />
+  <img src="https://user-images.githubusercontent.com/67304453/181060964-b12fad9c-a041-4013-ab4e-3a3f029d7da9.gif" />
 </div>
 
 <h1>07° FAQ Accordion Section</h1>
