@@ -47,10 +47,14 @@
 <h1>08° Game Card Hover Effects</h1>
 
 <div align="center">  
-  <img src="" />
+  <img src="https://user-images.githubusercontent.com/67304453/181242839-5b275e92-03e1-477a-aafe-1097f3140374.gif" />
 </div>
   
 <h1>09° Dropmorphism</h1>
+
+<div align="center">  
+  <img src="" />
+</div>
 
 <h1>10° Responsive Image Gallery</h1>
 
