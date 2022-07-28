@@ -58,15 +58,39 @@
 
 <h1>10° Responsive Image Gallery</h1>
 
+<div align="center">  
+  <img src="" />
+</div>
+
 <h1>11° Custom Radio Buttons</h1>
+
+<div align="center">  
+  <img src="" />
+</div>
  
 <h1>12° Responsive Pricing Card tables</h1>
+
+<div align="center">  
+  <img src="" />
+</div>
   
 <h1>13° Toggle ON OFF Switch Button</h1> 
 
+<div align="center">  
+  <img src="" />
+</div>
+
 <h1>14° Samsung Watch Clone</h1> 
+
+<div align="center">  
+  <img src="" />
+</div>
   
 <h1>15° Neumorphic Login Form Design</h1>
+
+<div align="center">  
+  <img src="" />
+</div>
  
 <h1>16° Neumorphism Animation</h1>  
   
