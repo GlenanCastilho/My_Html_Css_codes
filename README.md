@@ -94,38 +94,114 @@
  
 <h1>16° Neumorphism Animation</h1>  
   
+  <div align="center">  
+  <img src="" />
+</div>
+  
 <h1>17° Card Reveal Hover Effect</h1>  
+  
+  <div align="center">  
+  <img src="" />
+</div>
   
 <h1>18° Animated Login and Sign Up Form</h1>
   
+  <div align="center">  
+  <img src="" />
+</div>
+  
 <h1>19° Awesome Animated Search Bar</h1>
+
+<div align="center">  
+  <img src="" />
+</div>
 
 <h1>20° Animated Search Bar</h1>
 
+<div align="center">  
+  <img src="" />
+</div>
+
 <h1>21° 3D Button Hover Animation</h1>
+
+<div align="center">  
+  <img src="" />
+</div>
 
 <h1>22° Amazing Profile Cards Design</h1>  
  
+ <div align="center">  
+  <img src="" />
+</div>
+ 
 <h1>23° Button with Animated Border</h1>
+
+<div align="center">  
+  <img src="" />
+</div>
 
 <h1>24° Amazing Profile Cards Design 2</h1>
 
+<div align="center">  
+  <img src="" />
+</div>
+
 <h1>25° Image Hover Effects</h1>
+
+<div align="center">  
+  <img src="" />
+</div>
 
 <h1>26° CSS Button Hover Effect</h1>
 
+<div align="center">  
+  <img src="" />
+</div>
+
 <h1>27° CSS Image Hover Effect</h1>
+
+<div align="center">  
+  <img src="" />
+</div>
 
 <h1>28° Awesome CSS Button Hover Effect</h1>
 
+<div align="center">  
+  <img src="" />
+</div>
+
 <h1>29° Awesome CSS Card Hover Effects</h1>
+
+<div align="center">  
+  <img src="" />
+</div>
 
 <h1>30° Responsive CSS Cards</h1>
 
+<div align="center">  
+  <img src="" />
+</div>
+
 <h1>31° Facebook Sign Up</h1>
+
+<div align="center">  
+  <img src="" />
+</div>
 
 <h1>32° Twitter Homepage</h1>
 
+<div align="center">  
+  <img src="" />
+</div>
+
 <h1>33° PayPal Login Page</h1>
 
+<div align="center">  
+  <img src="" />
+</div>
+
 <h1>34° PayPal SignUp Page</h1>
+
+<div align="center">  
+  <img src="" />
+</div>
