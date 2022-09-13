@@ -59,19 +59,19 @@
 <h1>10° Responsive Image Gallery</h1>
 
 <div align="center">  
-  <img src="https://user-images.githubusercontent.com/67304453/181243064-f3310a85-bda4-4330-aa49-fa60f11cd26b.gif" />
+  <img src="" />
 </div>
 
 <h1>11° Custom Radio Buttons</h1>
 
 <div align="center">  
-  <img src="" />
+  <img src="https://user-images.githubusercontent.com/67304453/181243064-f3310a85-bda4-4330-aa49-fa60f11cd26b.gif" />
 </div>
  
 <h1>12° Responsive Pricing Card tables</h1>
 
 <div align="center">  
-  <img src="" />
+  <img src="https://user-images.githubusercontent.com/67304453/181243118-e15b2599-4582-4174-a445-adc0fd8fe61b.gif" />
 </div>
   
 <h1>13° Toggle ON OFF Switch Button</h1> 
